@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**GaibVargas/GaibVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:student: Undergraduate in Computer Science at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br/)
 
-Here are some ideas to get you started:
+:mag_right: Scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:email: gabriel.vargas.coelho@gmail.com
+
+:briefcase: www.linkedin.com/in/gabrielvc
+
+:computer: Full-Stack developer
+
+:heart: Enthusiast of web and mobile development.
+
+#### Techs :man_technologist:
+
+- HTML, CSS, Javascript
+- Node.js
+- ReactJS, ReactNative
+- PHP, Laravel
+- MySQL, Postgres, MongoDB
+
+
+
+*"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."*
+Stephen Hawking
