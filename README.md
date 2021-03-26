@@ -16,7 +16,7 @@
 
 - HTML, CSS, Javascript
 - Node.js
-- ReactJS, ReactNative
+- ReactJS, ReactNative, Vue.js
 - PHP, Laravel
 - MySQL, Postgres, MongoDB
 
