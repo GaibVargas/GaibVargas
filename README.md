@@ -14,7 +14,7 @@
 
 :mag_right: Scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
 
-:computer: FullStack developer at [Emiolo](https://emiolo.com/)
+:computer: Full-Stack developer at [Emiolo](https://emiolo.com/)
 
 #### Techs :man_technologist:
 
