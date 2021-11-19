@@ -2,8 +2,6 @@
 
 :student: Undergraduate in Computer Science at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br/)
 
-:mag_right: Scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
-
 :email: gabriel.vargas.coelho@gmail.com
 
 :briefcase: www.linkedin.com/in/gabrielvc
@@ -11,6 +9,12 @@
 :computer: Full-Stack developer
 
 :heart: Enthusiast of web and mobile development.
+
+### Experiencies
+
+:mag_right: Scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
+
+:computer: FullStack developer at [Emiolo](https://emiolo.com/)
 
 #### Techs :man_technologist:
 
