@@ -16,6 +16,8 @@
 
 :computer: Full-Stack developer at [Emiolo](https://emiolo.com/)
 
+🖥️ Trainee at [Pixel](https://ejpixel.com.br/)
+
 #### Techs :man_technologist:
 
 - HTML, CSS, Javascript
