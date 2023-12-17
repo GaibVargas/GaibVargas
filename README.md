@@ -16,7 +16,7 @@
 
 :computer: Full-Stack developer at [Emiolo](https://emiolo.com/)
 
-🖥️ Trainee at [Pixel](https://ejpixel.com.br/)
+🖥️ Former member at [Pixel](https://ejpixel.com.br/)
 
 #### Techs :man_technologist:
 
