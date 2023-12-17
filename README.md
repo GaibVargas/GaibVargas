@@ -12,7 +12,7 @@
 
 ### Experiencies
 
-:mag_right: Scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
+:mag_right: Former scholarship in remote laboratory [RExLab](https://rexlab.ufsc.br/)
 
 :computer: Full-Stack developer at [Emiolo](https://emiolo.com/)
 
